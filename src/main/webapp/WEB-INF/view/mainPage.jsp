@@ -3,7 +3,7 @@
         <title>FUNCTIONAL APPLICATION</title>
     </head>
     <body>
-MAIN PAGE TESTING
+MAIN PAGE
 <br>
 OTHER LINKS
 <br>
